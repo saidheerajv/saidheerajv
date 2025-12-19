@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  <a href="mailto:saidheerajv@gmail. com">
-    <img src="https://img.shields.io/badge/Email-saidheerajv%40gmail.com-red? style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://linkedin.com/in/saidheerajv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-saidheerajv-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
