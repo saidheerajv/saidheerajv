@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Fullstack Engineer from India</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/saidheerajv" target="_blank">
